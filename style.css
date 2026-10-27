@@ -1,0 +1,15 @@
+body {
+  align-items: center;
+  text-align-last: center;
+  background-color: rgb(107, 185, 238);
+}
+h1 {
+  background-color: white;
+  padding: 10px;
+}
+#idInput{
+  margin-bottom: 10px;
+}
+#idSelect{
+  margin-bottom: 10px;
+}
